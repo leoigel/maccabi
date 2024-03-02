@@ -1,0 +1,28 @@
+.stage_1_flex {
+  display: flex;
+  gap: 1.04vw;
+  justify-content: space-between;
+  margin-top: 4.17vw;
+}
+.stage1_topTxt h1 {
+  color: #08428f;
+  font-size: 3.13vw;
+  line-height: 1;
+  font-family: var(--font-PloniMaccabiMLv2AAA);
+  margin-top: -0.6vw;
+}
+.stage1_topTxt h2 {
+  color: #08428f;
+  font-size: 1.56vw;
+  line-height: 1.1;
+  margin-top: 1vw;
+  font-weight: 400;
+}
+.stage1_topTxt {
+  text-align: right;
+}
+.hoverImage {
+  width: 30.31vw;
+  height: 18.18vw;
+  position: relative;
+}

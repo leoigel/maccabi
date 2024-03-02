@@ -1,0 +1,36 @@
+.buttonToggleFriend_2,
+.buttonToggleFriend {
+  padding: 1.04vw 0.78vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #08428f;
+  border-radius: 0.52vw;
+  width: 31.2vw;
+  height: 3.33vw;
+  cursor: pointer;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.buttonToggleFriend_2 p,
+.buttonToggleFriend p {
+  font-size: 1.56vw;
+  font-weight: 100;
+  color: #08428f;
+}
+
+.buttonToggleFriend_2 .toggleCircle,
+.buttonToggleFriend .toggleCircle {
+  width: 1.04vw;
+  height: 1.04vw;
+  border-radius: 100vw;
+  border: 1px solid #08428f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.toggleCircle.active {
+  background: #ed008c;
+}

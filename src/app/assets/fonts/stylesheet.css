@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Ploni Maccabi ML v2 AAA';
+    src: url('PloniMaccabiMLv2AAA-Regular.eot');
+    src: url('PloniMaccabiMLv2AAA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PloniMaccabiMLv2AAA-Regular.woff2') format('woff2'),
+        url('PloniMaccabiMLv2AAA-Regular.woff') format('woff'),
+        url('PloniMaccabiMLv2AAA-Regular.ttf') format('truetype'),
+        url('PloniMaccabiMLv2AAA-Regular.svg#PloniMaccabiMLv2AAA-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ploni Maccabi ML v2 AAA';
+    src: url('PloniMaccabiMLv2AAA-Bold.eot');
+    src: url('PloniMaccabiMLv2AAA-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PloniMaccabiMLv2AAA-Bold.woff2') format('woff2'),
+        url('PloniMaccabiMLv2AAA-Bold.woff') format('woff'),
+        url('PloniMaccabiMLv2AAA-Bold.ttf') format('truetype'),
+        url('PloniMaccabiMLv2AAA-Bold.svg#PloniMaccabiMLv2AAA-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ploni Maccabi ML v2 AAA D';
+    src: url('PloniMaccabiMLv2AAA-DemiBold.eot');
+    src: url('PloniMaccabiMLv2AAA-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('PloniMaccabiMLv2AAA-DemiBold.woff2') format('woff2'),
+        url('PloniMaccabiMLv2AAA-DemiBold.woff') format('woff'),
+        url('PloniMaccabiMLv2AAA-DemiBold.ttf') format('truetype'),
+        url('PloniMaccabiMLv2AAA-DemiBold.svg#PloniMaccabiMLv2AAA-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ploni ML v2 AAA D';
+    src: url('PloniMLv2AAA-D-Bold.eot');
+    src: url('PloniMLv2AAA-D-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PloniMLv2AAA-D-Bold.woff2') format('woff2'),
+        url('PloniMLv2AAA-D-Bold.woff') format('woff'),
+        url('PloniMLv2AAA-D-Bold.ttf') format('truetype'),
+        url('PloniMLv2AAA-D-Bold.svg#PloniMLv2AAA-D-Bold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ploni ML v2 AAA U';
+    src: url('PloniMLv2AAA-U-Bold.eot');
+    src: url('PloniMLv2AAA-U-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PloniMLv2AAA-U-Bold.woff2') format('woff2'),
+        url('PloniMLv2AAA-U-Bold.woff') format('woff'),
+        url('PloniMLv2AAA-U-Bold.ttf') format('truetype'),
+        url('PloniMLv2AAA-U-Bold.svg#PloniMLv2AAA-U-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ploni ML v2 AAA';
+    src: url('PloniMLv2AAA-Regular.eot');
+    src: url('PloniMLv2AAA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PloniMLv2AAA-Regular.woff2') format('woff2'),
+        url('PloniMLv2AAA-Regular.woff') format('woff'),
+        url('PloniMLv2AAA-Regular.ttf') format('truetype'),
+        url('PloniMLv2AAA-Regular.svg#PloniMLv2AAA-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

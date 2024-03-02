@@ -1,0 +1,15 @@
+.progressBar {
+  right: 0;
+  width: 63.59vw;
+  height: 0.52vw;
+  background: #e7e7e7;
+  border-radius: 100vw;
+  overflow: hidden;
+}
+
+.progressBar span {
+  height: 100%;
+  background-color: #ed008c;
+  border-radius: 100vw;
+  display: block;
+}

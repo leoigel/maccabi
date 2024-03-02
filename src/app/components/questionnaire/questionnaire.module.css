@@ -1,0 +1,25 @@
+.wrapperStage2 {
+  padding: 0 4.83vw;
+  margin-top: 5.73vw;
+}
+.wrapperStage2 h3 {
+  font-size: 3.13vw;
+  color: #08428f;
+  text-align: center;
+  line-height: 2.5vw;
+  font-family: var(--font-PloniMaccabiMLv2AAA);
+  font-weight: 900;
+}
+
+.toggleFriendMaccabi {
+  display: flex;
+  flex-direction: column;
+  gap: 1.04vw;
+  margin-top: 2.08vw;
+}
+
+.buttonToggleFinal_2.continue,
+.buttonToggleFinal.continue {
+  background-color: var(--color3);
+  cursor: pointer;
+}

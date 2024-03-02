@@ -1,0 +1,22 @@
+.buttonToggleFinal_2,
+.buttonToggleFinal {
+  width: 31.2vw;
+  height: 3.13vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.08vw;
+  background-color: #e7e7e7;
+  border-radius: 2.6vw;
+  margin: 2.08vw auto 0;
+  border: none;
+  color: #fff;
+  font-size: 1.56vw;
+  font-weight: 100;
+}
+
+.buttonToggleFinal_2.continue,
+.buttonToggleFinal.continue {
+  background-color: #08428f;
+  cursor: pointer;
+}

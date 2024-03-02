@@ -1,0 +1,30 @@
+.button {
+  position: absolute;
+  top: 2.6vw;
+  right: 6.77vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  font-family: var(--font-PloniMaccabiMLv2AAA);
+}
+.button span {
+  width: 0.52vw;
+  height: 0.52vw;
+  border-top: 2px solid #08428f;
+  border-right: 2px solid #08428f;
+  display: block;
+  position: relative;
+  transform: rotate(45deg);
+  margin-left: 0.26vw;
+  top: 0vw;
+}
+.button p {
+  font-size: 1.56vw;
+  color: #08428f;
+  font-weight: 900;
+  letter-spacing: 0.03vw;
+  font-family: var(--font-PloniMaccabiMLv2AAA);
+}

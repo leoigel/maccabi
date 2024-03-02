@@ -1,0 +1,28 @@
+.button {
+  width: 19.69vw;
+  height: 3.13vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2.6vw;
+  background-color: #ed008c;
+  margin-top: 1.25vw;
+  cursor: pointer;
+  border: none;
+}
+
+.button p {
+  font-size: 1.56vw;
+  color: #fff;
+}
+.button span {
+  width: 0.52vw;
+  height: 0.52vw;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  display: block;
+  position: relative;
+  transform: rotate(-135deg);
+  margin-right: 0.52vw;
+  top: -0.07vw;
+}
