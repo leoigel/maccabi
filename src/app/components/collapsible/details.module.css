@@ -1,0 +1,61 @@
+.wrapper_list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.itemList {
+  display: block;
+  width: 31.25vw;
+  background-color: #fff3fb;
+  border: none;
+  margin: 1% 0 0 0%;
+}
+
+.wrapperImageTitle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 1.04vw 2.08vw;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+}
+
+.titleList {
+  font-size: 1.56vw;
+  line-height: 1;
+  color: #08428f;
+  padding-right: 0.1vw;
+  text-align: right;
+}
+
+.descriptionList {
+  height: 0;
+  overflow: hidden;
+  transition: 0.3s all;
+}
+.descriptionList.active {
+  height: 7vw;
+}
+.descriptionList p.descriptionList_des {
+  margin-bottom: 0.78vw;
+}
+
+.descriptionList p {
+  font-size: 1.15vw;
+  line-height: 1.1;
+  color: #08428f;
+  padding-bottom: 0;
+  padding-right: 2.08vw;
+  text-align: right;
+  position: relative;
+}
+
+.hr {
+  display: none;
+}

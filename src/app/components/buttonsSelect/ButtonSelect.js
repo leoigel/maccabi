@@ -2,10 +2,11 @@
 import React from 'react'
 import styles from './buttonSelect.module.css';
 import useSelectButton from '../../hooks/useSelectButton';
-import Details from '../details/Details';
+import Details from '../collapsible/Details';
+
 
 const ButtonSelect = () => {
-    const { id, updateID } = useSelectButton(null);
+    const { id, updateID } = useSelectButton(1);
     let listButtons = [
         {
             id: 1,
@@ -36,9 +37,9 @@ const ButtonSelect = () => {
                     </button>
                 )
             })}
-            {/* <Details /> */}
+            <Details parentId={id} />
         </div>
     )
 }
 
-export default ButtonSelect
+export default ButtonSelect;
